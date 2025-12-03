@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+- I'm a university student and i took Information System
+- I'm just a newbie here okay, nothing special yet
+- So i'm still learning something like n8n, microsoft fabric, android studio, and roblox studio (I know I'm greedy but I'm searching for my true self lol)
+
+If you want to be friend with me, we can. Anyway i'm from INDONESIA 
+
+Thank you for reading this!!
+
 <!--
 **Yogs4R/Yogs4R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
