@@ -2,8 +2,8 @@
 
 # About Me:
 - I'm a university student and i took Information System
-- I'm just a newbie here okay, nothing special yet
-- So i'm still learning something like n8n, microsoft fabric, android studio, and roblox studio
+- I'm just a newbie here okay, nothing special yet, if you look at my tech stack maybe i'm just exaggerating 🙏
+- I'm still learning something like n8n, microsoft fabric, android studio, and roblox studio
 
 
 # Tech Stack:
