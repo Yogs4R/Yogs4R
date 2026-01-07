@@ -35,11 +35,12 @@ Currently learning: n8n, Microsoft Fabric, Android Studio, and Roblox Studio.
 ### GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Yogs4R&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Yogs4R's GitHub Stats" />
+  <img src="https://github-yogs4r-readme-stats.vercel.app/api?username=Yogs4R&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Yogs4R's GitHub Stats" />
+  
   <img src="https://nirzak-streak-stats.vercel.app/?user=Yogs4R&theme=dark&hide_border=true" alt="Yogs4R's Streak" />
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogs4R&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
+  <img src="https://github-yogs4r-readme-stats.vercel.app/api/top-langs/?username=Yogs4R&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
 </p>
 
 </div>
