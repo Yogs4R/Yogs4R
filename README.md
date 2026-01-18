@@ -4,7 +4,7 @@
 
 ### About Me
 I'm a university student majoring in Information Systems.<br>
-I'm just a newbie here, nothing special yet. If you look at my tech stack, maybe I'm just exaggerating <br>
+I'm just a newbie here, nothing special yet. If you look at my tech stack, maybe I'm just exaggerating 🙏<br>
 Currently learning: n8n, Microsoft Fabric, Android Studio, and Roblox Studio.
 
 ---
